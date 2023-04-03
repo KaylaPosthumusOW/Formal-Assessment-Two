@@ -1,0 +1,138 @@
+nav{
+    width: 100%;
+    height: 70px;
+    background-color: #2b2b2b;
+}
+
+.logo{
+    color: white;
+    margin-left: 110px;
+    float: left;
+    font-family: 'Playfair Display', serif;
+    margin-top: 15px;
+}
+
+.nav-con{
+    color: white;
+    padding-top: 10px;
+    padding-left: 75%;
+}
+
+.nav-con ul{
+    list-style: none;
+}
+
+.nav-con li{
+    float: left;
+    margin: 2%;
+}
+
+form{
+    width: 50%;
+    margin: 0 auto;
+    border: 2px solid grey;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.header{
+    width: 99%;
+    height: 400px;
+    background-image: url(../assets/header.jpg);
+    background-position: center;
+    background-size: cover;
+    margin: 0 auto;
+    border-radius: 10px;
+    color: white;
+    
+}
+
+.overlay{
+    width: 100%;
+    height: 400px;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding-top: 20px;
+    border-radius: 10px;
+}
+
+.icon{
+    width: 25px;
+    height: 25px; 
+    margin: 0 auto;   
+    margin-top: 13px;
+}
+
+.icon-circle{
+    width: 70px;
+    height: 70px;
+    border: 2px solid white;
+    border-radius: 70px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+form h1{
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    margin-top: 30px;
+}
+
+.line{
+    width: 15%;
+    background-color: white;
+    height: 2px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+form h3{
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    margin-top: 30px;
+}
+
+form p{
+    padding-top: 25px;
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.input-el{
+    width: 99%;
+    height: 35px;
+    background-color: lightgrey;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    padding-left: 15px;
+}
+
+.submit-btn{
+    width: 99%;
+    height: 35px;
+    background-color: #2b2b2b;
+    color: white;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    margin-top: 18px;
+    font-family: 'Playfair Display', serif;
+}
+
+.submit-btn:hover{
+    background-color: white;
+    color: black;
+    border: 2px solid lightgrey;
+}
+
+footer{
+    width: 100%;
+    height: 70px;
+    background-color: #2b2b2b;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+}
